@@ -1,5 +1,3 @@
-
-
 <!--<h1 align="center">Hi, I'm JAGADEESH 👋</h1>
 <h3 align="center">Full Stack Developer</h3>
 
