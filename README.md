@@ -1,45 +1,52 @@
 <h1 align="center">Hi, I'm JAGADEESH KOPPISETTI</h1>
 
-<hr/>
+---
 
-## 👨‍💻 About Me
-- ✨ Entry-Level Software Developer  
+## ▾ About Me
+- ✨ Full Stack Developer  
+- 📍 From India  
 - 🎓 Computer Science Graduate  
-- ☕ Java & Backend Enthusiast  
-- 🌍 From India  
-- 🚀 Building real-world projects  
 
 ---
 
-## 🧰 Languages and Tools 🛠️
+## ▾ Languages and Tools 🛠️
 
-### 🎨 Frontend
+### ▸ Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/REACT-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/TAILWIND-38B2AC?style=flat&logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui"/>
+  <img src="https://img.shields.io/badge/SHADCN_UI-000000?style=flat"/>
 </p>
 
 ---
 
-### ⚙️ Backend
+### ▸ Backend
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express"/>
+  <img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=flat&logo=springboot"/>
 </p>
 
 ---
 
-### 🗄️ Database
+### ▸ Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql"/>
+  <img src="https://img.shields.io/badge/SQL_SERVER-CC2927?style=flat"/>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=flat&logo=mongodb"/>
 </p>
 
 ---
 
-## 📌 Projects
+## ▾ Pinned Projects
 - 🌾 **AgroLink – Farmer Marketplace**
 - 🌦 **Weather Forecast App**
 - 🤖 **Spark Virtual Assistant**
@@ -47,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## ▾ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jagadeesh-sys&show_icons=true&theme=dark"/>
 </p>
