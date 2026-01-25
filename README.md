@@ -1,10 +1,20 @@
-<h1 align="center">Hi, I'm <b>𝙅𝙖𝙜𝙖𝙙𝙚𝙚𝙨𝙝 𝙆𝙤𝙥𝙥𝙞𝙨𝙚𝙩𝙩𝙞</b> 👋</h1>
+<h1 align="center">
+  Hi, I'm <b>𝙅𝙖𝙜𝙖𝙙𝙚𝙚𝙨𝙝 𝙆𝙤𝙥𝙥𝙞𝙨𝙚𝙩𝙩𝙞</b> 👋
+</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jagadeesh-koppisetti-173701261" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jagadeesh%20Koppisetti-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://jagadeesh-koppisetti-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Jagadeesh%20Koppisetti-000000?style=flat&logo=netlify&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## ▾ About Me
-- ✨ Full Stack Developer | Java & AI
+- ✨ Full Stack Developer | Java & AI  
 - 📍 From India  
 - 🎓 Computer Science Graduate  
 
@@ -73,7 +83,6 @@
   <img src="https://img.shields.io/badge/NETLIFY-00C7B7?style=flat&logo=netlify"/>
   <img src="https://img.shields.io/badge/RENDER-46E3B7?style=flat"/>
 </p>
-
 
 ---
 
