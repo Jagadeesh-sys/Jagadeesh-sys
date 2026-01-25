@@ -12,38 +12,68 @@
 
 ## ▾ Languages and Tools 🛠️
 
-### ▸ Frontend
+### ▸ Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/REACT-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=nextdotjs"/>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/TAILWIND-38B2AC?style=flat&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui"/>
-  <img src="https://img.shields.io/badge/SHADCN_UI-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white"/>
 </p>
 
 ---
 
-### ▸ Backend
+### ▸ Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3"/>
+  <img src="https://img.shields.io/badge/REACT-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=flat&logo=tailwindcss"/>
+</p>
+
+---
+
+### ▸ Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express"/>
   <img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=flat&logo=springboot"/>
+  <img src="https://img.shields.io/badge/APACHE_TOMCAT-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FLASK-000000?style=flat&logo=flask"/>
+  <img src="https://img.shields.io/badge/DJANGO-092E20?style=flat&logo=django"/>
 </p>
 
 ---
 
 ### ▸ Database
 <p>
-  <img src="https://img.shields.io/badge/SQL_SERVER-CC2927?style=flat"/>
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql"/>
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=flat&logo=mongodb"/>
 </p>
+
+---
+
+### ▸ AI / Data Science
+<p>
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=flat&logo=numpy"/>
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=flat&logo=pandas"/>
+  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=flat"/>
+  <img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=flat&logo=plotly"/>
+  <img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=flat&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/SCIPY-8CAAE6?style=flat&logo=scipy"/>
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat&logo=tensorflow"/>
+</p>
+
+---
+
+### ▸ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/GITLAB-FCA121?style=flat&logo=gitlab"/>
+  <img src="https://img.shields.io/badge/VERCEL-000000?style=flat&logo=vercel"/>
+  <img src="https://img.shields.io/badge/NETLIFY-00C7B7?style=flat&logo=netlify"/>
+  <img src="https://img.shields.io/badge/RENDER-46E3B7?style=flat"/>
+</p>
+
 
 ---
 
