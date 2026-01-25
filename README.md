@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm <strong>Jagadeesh Koppisetti</strong> 👋</h1>
+<h1 align="center">Hi, I'm <b>𝙅𝙖𝙜𝙖𝙙𝙚𝙚𝙨𝙝 𝙆𝙤𝙥𝙥𝙞𝙨𝙚𝙩𝙩𝙞</b> 👋</h1>
 
 
 ---
 
 ## ▾ About Me
-- ✨ Full Stack Developer  
+- ✨ Full Stack Developer | Java & AI
 - 📍 From India  
 - 🎓 Computer Science Graduate  
 
