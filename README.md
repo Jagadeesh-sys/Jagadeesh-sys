@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/jagadeesh-koppisetti-173701261" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Jagadeesh%20Koppisetti-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="https://jagadeesh-koppisetti-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Jagadeesh%20Koppisetti-000000?style=flat&logo=netlify&logoColor=white"/>
   </a>
